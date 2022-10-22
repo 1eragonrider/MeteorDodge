@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Boundry
+  - SmallAsteroid
+  - MediumAsteroid
+  - LargeAsteroid
+  - UltraAsteroid
   layers:
   - Default
   - TransparentFX
@@ -14,8 +18,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Asteroid
+  - Boundry
   - 
   - 
   - 
